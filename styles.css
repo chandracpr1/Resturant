@@ -1,0 +1,139 @@
+/* body {
+    background-image : url("https://cdn.pixabay.com/photo/2017/06/21/07/33/background-2426329_1280.jpg");
+} */
+.img {
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    position: fixed;
+}
+.menu-item {
+    float: left;
+    list-style: none;
+    margin-left: 40px;
+    margin-top: 20px;
+    background-color: yellow;
+    text-decoration: none;
+    text-align:center;
+    position: relative;
+    top: auto;
+    width: 190px;
+    height: 60px;
+}
+.anc {
+    text-decoration: none;
+    margin-top: auto;
+    position: relative;
+    top: 20px;
+}
+.pic10 {
+    margin-left:80px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.pic11 {
+    background-color: yellow;
+    display: block;
+    width: 30%;
+    line-height: 1.5;
+    padding-left: 15px;
+    position: absolute;
+    bottom: 300px;
+}
+.pic12 {
+    background-color: yellow;
+    display: block;
+    width: 15%;
+    line-height: 1.5;
+    padding-left:15px;
+    position: absolute;
+    bottom: 200px;
+}
+.pic13 {
+    background-color: yellow;
+    display: block;
+    width: 357.115px;
+    height: 190px;
+    text-align: center;
+    position: absolute;
+    bottom: 245px;
+    right: 150px;
+}
+.pic14 {
+    position: relative;
+    top: 50px;
+}
+.pic15 {
+    background-color: yellow;
+    display: block;
+    width: 357.115px;
+    height: 190px;
+    text-align: center;
+    position: absolute;
+    bottom: 50px;
+    right: 150px;
+}
+.pic16 {
+    position: relative;
+    top: 50px;
+}
+.pic21 {
+    margin-bottom: 30px;
+}
+.pic22 {
+    background-color: white;
+    margin-left: 13px;
+    width: 240px;
+    text-align: center;
+}
+.pic23 {
+    background-color: white;
+    margin-left: 13px;
+    width: 240px;
+    text-align: center;
+}
+.pic24 {
+    background-color: white;
+    margin-left: 13px;
+    width: 240px;
+    text-align: center;
+}
+.pic25 {
+    background-color: white;
+    margin-left: 13px;
+    width: 240px;
+    text-align: center;
+}
+.icon {
+    font-size: 50px;
+}
+.about {
+    background-color: white;
+    margin-top: 30px;
+    display: block;
+}
+.about__mockup {
+    margin-top: 60px;
+    display: inline-block;
+    padding-left: 80px;
+}
+.about__details {
+    background-color: white;
+    display:inline-block;
+    position: absolute;
+    right: 300px;
+    padding-top: 100px;
+}
+.grid {
+    display: inline-block;
+    float: left;
+    margin: 30px;
+}
+.grid .g-col-2 {
+    display: inline;
+    width: 230px;
+    height: 230px;
+    padding-left: 30px;
+}
+
+
